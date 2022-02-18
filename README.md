@@ -5,6 +5,7 @@
 
 ![DannysDinerCaseStudyResized2](https://user-images.githubusercontent.com/90117717/154751326-ecbcf3cb-c0b4-44b6-bf51-49ea7a14b19d.png)
 
+**S/O to Danny Ma for creating this challenge!**
 
 # Background #
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
