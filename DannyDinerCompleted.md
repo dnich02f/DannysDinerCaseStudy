@@ -2,6 +2,7 @@
 \
 *Special Thanks to Danny Ma for creating this challenge*
 
+![DannysDinerCaseStudyResized2](https://user-images.githubusercontent.com/90117717/154757160-f683ee49-c386-4911-907e-6bb386692bf8.png)
 
 Schema and Queries created with PostgreSQL v13
 
