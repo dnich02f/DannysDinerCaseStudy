@@ -433,4 +433,16 @@ Danny also requires further information about the ranking of customer products, 
 
 ---
 
+# Recommendations and Insights #
+* Members spent more than 2 times as much money as non members
+* Members visited 2 - 3 times more than non members
+* Customers whose first purchase included Curry became members 
+* Ramen was the most purchased item on the menu for a total of 8 times! Tasty!
+* Customers who became members ordered Sushi the meal before they became members
+* Customers who became members ordered 2 items each before they became members
+* Customer A and C's most popular order was Ramen whereas Customer B ordered the same amount of Sushi, Ramen, and Curry. It's too tough to choose from!
+
+**Danny should feature Ramen at the top of the menu, and run specials to convert casual diners into loyal members!**
+
+
 [View on DB Fiddle](https://www.db-fiddle.com/f/dtT4rRi6ZySgc4YLLe5uBq/0)
