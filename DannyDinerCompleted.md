@@ -444,5 +444,3 @@ Danny also requires further information about the ranking of customer products, 
 
 **Danny should feature Ramen at the top of the menu, and run specials to convert casual diners into loyal members!**
 
-
-[View on DB Fiddle](https://www.db-fiddle.com/f/dtT4rRi6ZySgc4YLLe5uBq/0)
